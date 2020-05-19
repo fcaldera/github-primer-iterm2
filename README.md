@@ -1,4 +1,4 @@
-# Github Primer Theme iterm2
+# Github Primer Theme for iTerm2
 iTerm 2 adaptation of [GitHub VSCode theme](https://github.com/primer/github-vscode-theme) VSCode theme.
 
 
