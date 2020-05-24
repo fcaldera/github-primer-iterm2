@@ -1,5 +1,5 @@
-# Github Primer Theme for iTerm2
-iTerm 2 adaptation of [GitHub VSCode theme](https://github.com/primer/github-vscode-theme) VSCode theme.
+# Github iTerm2 theme
+A port of [GitHub VSCode theme](https://github.com/primer/github-vscode-theme) for iTerm2.
 
 
 ## Preview
@@ -17,4 +17,3 @@ Matches terminal colors.
 ### Light
 
 ![screenshot-light](https://github.com/fcaldera/github-primer-iterm2/blob/master/screenshot-light.png)
- 
