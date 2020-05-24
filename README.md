@@ -3,10 +3,18 @@ iTerm 2 adaptation of [GitHub VSCode theme](https://github.com/primer/github-vsc
 
 
 ## Preview
-![Screenshot-Dark](https://user-images.githubusercontent.com/5233109/82373650-8c35eb00-9a26-11ea-86e6-0827da0d36b6.png
- "Screen Shot")
- 
- ![Screenshot-Light](https://user-images.githubusercontent.com/5233109/82753882-09b87d00-9dd2-11ea-8b7d-7271c76fe9c7.png)
- 
- 
 
+### Dark
+Matches editor colors.
+
+![screenshot-dark](https://github.com/fcaldera/github-primer-iterm2/blob/master/screenshot-dark.png)
+
+### Dark+
+Matches terminal colors.
+
+![screenshot-dark](https://github.com/fcaldera/github-primer-iterm2/blob/master/screenshot-dark+.png)
+
+### Light
+
+![screenshot-light](https://github.com/fcaldera/github-primer-iterm2/blob/master/screenshot-light.png)
+ 
